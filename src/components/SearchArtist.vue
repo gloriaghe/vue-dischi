@@ -8,7 +8,6 @@
 
 <script>
 
-
 export default {
   name: "SearchArtist",
  
@@ -28,7 +27,5 @@ export default {
 div{
     margin-left: 20px;
 }
-
-
 
 </style>
